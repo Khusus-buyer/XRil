@@ -20,32 +20,32 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.apilol = 'fleyvin_soft' //YOUR APIKEY LolHuman
-global.owner = ['6283110011351','6283110011351'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['6283110011351'] //another owner number
-global.premium = ['6283110011351'] //premium number
-global.pengguna = 'xZrinva' //username
-global.botnma = 'Zarin-BOT' //bot name
-global.fake = 'Fazrin Gamteng' //FAKE fotter
-global.ownernma = 'Fazrin' //owner name
-global.packname = 'Zarin BOT' //sticker package name
-global.author = 'By Fazrin Mauza' //sticker author name
+global.apilol = '' //YOUR APIKEY LolHuman
+global.owner = ['6285893639416','6283110011351'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['6285893639416'] //another owner number
+global.premium = ['6285893639416'] //premium number
+global.pengguna = 'RXil botZ' //username
+global.botnma = 'RXil botZ' //bot name
+global.fake = 'RXil botZ ' //FAKE fotter
+global.ownernma = 'RXil' //owner name
+global.packname = 'RXil botZ' //sticker package name
+global.author = 'By RXil' //sticker author name
 global.autoread = 'on' //ganti 'on' untuk mengaktifkan auto tead, ganti 'off' untuk mematikan auto read
 
 //═══════[media sosial]════════\\
-global.groupwa = 'https://chat.whatsapp.com/LfZCmLMPzBdGLQ53YTyvWW' //group WhatsApp nya
+global.groupwa = 'https://chat.whatsapp.com/HpEApKBMspqLx4xG1Hl6ha' //group WhatsApp nya
 
-global.medsos1 = 'YouTube'
-global.medsos1nama = 'xZrinva'
-global.medsos1url = 'https://YouTube.com/c/xZrinva'
+global.medsos1 = 'TikTok'
+global.medsos1nama = 'RXil'
+global.medsos1url = 'https://vm.tiktok.com/ZSd3YG1s5/'
 
-global.medsos2 = 'Instagtram'
-global.medsos2nama = '@fazrinmauza'
-global.medsos2url = 'https://Instagram.com/fleyvin'
+global.medsos2 = ''
+global.medsos2nama = ''
+global.medsos2url = ''
 
-global.medsos3 = 'WhatsApp'
-global.medsos3nama = '6283110011351 /Fazrin Mauza'
-global.medsos3url = 'https://wa.me/6283110011351'
+global.medsos3 = ''
+global.medsos3nama = ''
+global.medsos3url = ''
 
 //═══════[sewa, donasi, script, thnks to]════════\\
 //teks sewa bot
@@ -97,11 +97,7 @@ global.sewabot = `────❲ 𝚂𝚎𝚠𝚊 𝙱𝚘𝚝 ❳────
 //teks donasi
 global.donasi = `〔 𝙳𝙾𝙽𝙰𝚃𝙴 〕
                     
-⭔ PULSA : 09630883352
-⭔ DANA : 09630883352
-⭔ OVO : 09630883352
-⭔ ShopeePay : 09630883352
-⭔ QRIS : SCAN FOTO DI ATAS
+⭔ PULSA : 085893639416
 
  𝘜𝘢𝘯𝘨 𝘥𝘰𝘯𝘢𝘴𝘪 𝘢𝘬𝘢𝘯 𝘥𝘪 𝘬𝘶𝘮𝘱𝘶𝘭𝘬𝘢𝘯 𝘥𝘢𝘯 𝘥𝘪 𝘬𝘦𝘭𝘰𝘭𝘢 𝘰𝘭𝘦𝘩 𝘍𝘭𝘦𝘺𝘷𝘪𝘯 𝘛𝘦𝘢𝘮 𝘶𝘯𝘵𝘶𝘬 𝘥𝘪𝘢𝘭𝘰𝘬𝘢𝘴𝘪𝘬𝘢𝘯 𝘥𝘢𝘭𝘢𝘮 𝘱𝘦𝘮𝘣𝘶𝘢𝘵𝘢𝘯 𝘴𝘦𝘳𝘵𝘢 𝘱𝘦𝘯𝘨𝘦𝘮𝘣𝘢𝘯𝘨𝘢𝘯 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘺𝘢𝘯𝘨 𝘣𝘦𝘳𝘮𝘢𝘯𝘧𝘢𝘢𝘵 𝘣𝘢𝘨𝘪 𝘣𝘢𝘯𝘺𝘢𝘬 𝘰𝘳𝘢𝘯𝘨.
  
@@ -130,14 +126,6 @@ Residence: East Java-Indonesia
 
  Saya adalah Owner dari Fleyvin Group dan menjadi salah satu penemu bug aplikasi WhatsApp yang membuat aplikasi WhatsApp Force Close jika di kirim virus dari BOT WhatsApp Saya
 
- Saya bernama Fazrin Mauza atau bisa di sebut xZrinva ,saya seorang anak yang lahir tahun 2005, saya tinggal di Desa dan di lahirkan oleh keluarga kecil,sederhana dan bahagia.Saat ini saya duduk di bangku sekolah SMA
-
- Saya ingin menjadi anak yang membanggakan orang tua dan keluarga saya,Saya ingin menjadi seseorang yang bermanfaat bagi banyak orang dengan cara membuat serta mengembangkan software dan membagikan ke banyak orang dengan tujuan dapat bermanfaat untuk mereka
-
- Saya bercita-cita menjadi seorang programmer dan konten kreator, namun saya memiliki mata silinder yang membuat saya pikir-pikir untuk mewujudkannya karena kerjanya yang menghadap layar komputer
-
- Saya mencoba mencari pekerjaan untuk masa depan saya yang dapat saya lakukan dengan optimal seperti menjadi Wirausahawan , namun saya tetap ingin berkarya seperti membuat Konten dan Aplikasi/Software
-
  Jika saya memiliki salah atau khilaf dari segala perbuatan, ucapan atau karya Saya, yang merugikan Anda, Saya minta maaf dan semoga Allah mengampuni segala dosa kita serta menerima semua amal baik kita sehingga kita kelak dapat berkumpul di surga milik Allah
 
  Temukan Saya di:
@@ -158,6 +146,7 @@ global.tqto =`┏━━⬣ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
 ┃ *Nabi Muhammad SAW*
 ┃⬡ family dev bot
 ┃⬡ xZrinva
+┃⬡ RXil
 ┃⬡ wahyu
 ┃⬡ xeon
 ┃⬡ zenz
@@ -169,6 +158,7 @@ global.tqto =`┏━━⬣ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
 ┗
 ┏━━⬣ *Energy Contribution*
 ┃⬡ xZrinva
+┃⬡ RXil
 ┃⬡ xeon
 ┃⬡ zenz
 ┃⬡ Fleyvin Team
