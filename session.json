@@ -361,16 +361,6 @@
           "type": "Buffer",
           "data": "Cm5Ir3o4O9LFRBlB1kdUWP7GXLFqsjUbN5cEbT+rDGs="
         }
-      },
-      "32": {
-        "private": {
-          "type": "Buffer",
-          "data": "6N/ChDUcVwlkoTgq76GAsdVq9FXg12LNrnTXHaO/o0E="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "wa+mP4aaZlzoEXAqDXTRXaCw7a+N0FjQU+lWE/HQK0Y="
-        }
       }
     },
     "sessions": {
